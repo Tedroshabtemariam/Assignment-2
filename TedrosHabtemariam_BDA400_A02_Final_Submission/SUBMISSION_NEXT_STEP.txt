@@ -1,0 +1,2 @@
+BDA400 Assignment 2 - Tedros Habtemariam
+This package includes the existing R scripts, portfolio, Word final report, PDF evidence report and screenshots.

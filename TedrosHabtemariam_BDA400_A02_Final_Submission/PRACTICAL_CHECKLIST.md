@@ -1,0 +1,12 @@
+# Practical verification checklist — Assignment 2
+- [ ] Create GitHub repository `TechnicalAnalysis` and capture its screenshot.
+- [ ] Capture installed R version (`R.version.string`) and RStudio version (`rstudioapi::versionInfo()$version`).
+- [ ] Install and load quantmod and TTR; capture package installation and version evidence.
+- [ ] Confirm `portfolio.txt` lists intended symbols.
+- [ ] Set working directory to `Assignment_2` folder; run `source('run_assignment.R')`.
+- [ ] Confirm all requested symbols loaded and separate data frames are present in `result$stocks`.
+- [ ] Verify mean, median, standard deviation and SMA against one sample stock.
+- [ ] Inspect stock CSV exports, summary CSV and PNG charts.
+- [ ] Add genuine screenshots and results to the Word report.
+- [ ] Upload project files to `TechnicalAnalysis/Assignment_2` and verify GitHub preview.
+- [ ] Add verified repository link to cover page; submit required materials in LMS.
